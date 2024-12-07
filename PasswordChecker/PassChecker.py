@@ -1,7 +1,4 @@
 import sys
-from http.client import responses
-from itertools import count
-
 import requests
 import hashlib
 
