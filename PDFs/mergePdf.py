@@ -10,5 +10,4 @@ def pdf_combiner(pdf_list):
         merger.append(pdf)
     merger.write('super.pdf')
 
-
 pdf_combiner(inputs)
